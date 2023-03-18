@@ -5,4 +5,4 @@ Above are all the different pieces or Tetrominos that you will see in a game. Fo
 90° right, 90° left, or 180°.<br>
 Knowing how each piece will rotate will allow you to pull off the legendary t-spin, and the less known L-spin.
 Once you have gotten familiar with how the pieces move you can check out a guide like [this](https://harddrop.com/wiki/Kaidan_Setups).<br>
-(Note that this guide is for 40 clear but the linked guide is mostly for battle tetris, more on that later)
+_(Note that this guide is for 40 clear but the linked guide is mostly for battle tetris, more on that later)_
