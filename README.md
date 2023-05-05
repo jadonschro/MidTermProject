@@ -1,12 +1,18 @@
-README.md
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset ="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Home Page</title>
+</head>
 
-# Home Page
-## Welcome, I am Jadon Schroeder, one of the best Tetris players by speed. 
-## On this page I hope to tell you more about how you can improve as a Tetris player.
+<body>
+  <h2>Welcome to my About Me Page</h2>
+    <p>
+    This is a about who I am and  contains some fun facts and various media. Hopefully you will leave this page feeling more fufiled and happy because of all the wonderfull information
+    </p>
 
-These are meant to be followed in order if you are looking to learn.
 
-* [My Best Run](./clip.md)
-* [How can you move the pieces?](./moving.md)
-* [How should I construct my stack?](./stack.md)
-* [What is finess?](./finess.md)
+
+</body>
+</html>
