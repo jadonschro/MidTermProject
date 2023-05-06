@@ -1,10 +1,26 @@
-# Creating an effecient stack.
-**A stack (as pictured below) is just how you stack up your Tetrominos.**<br>
-![](https://galactoidtetris.files.wordpress.com/2020/02/image-277.png)
-<br><br>
-**Why does this matter?**<br>
-A good stack will make sure you always have a place to put your pieces and you can reduce the height of the stack quicky.
-Idealy this means having a flat top and making sure you have a single column open on the right.<br>
-You want your single coloumn on the right for two reasons<br>
-1) Being able to drop a Tetris is only possible with an single open column using an I peice.<br>
-2) If you learned how peices rotate you should know that having the file open on the right will more easily allow your I piece to turn if your stack is very high.
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset ="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <h2>Sports</h2>
+    <p>
+    When I was in highschool I was really big into cross country and track, I did this for all four years I was there. I made it to state three years in cross country (which is a 5k) that was pretty cool and I got 93rd which doesnt sound very good but there were like over 200 people there so I was very happy with that. I could run a mile in under 5 minutes. 
+    </p>
+  <h5>
+    Here is a list of the other pages you can find about me and who I am
+  </h5>
+  <ul>
+    <li><a href="https://github.com/jadonschro/MidTermProject/blob/main/stack.md">Sports</li>
+    <li><a href="https://stackoverflow.com/questions/30932048/linking-to-another-html-page-on-github">Family</li>
+    <li><a href="https://stackoverflow.com/questions/30932048/linking-to-another-html-page-on-github">School</li>
+    <li><a href="https://stackoverflow.com/questions/30932048/linking-to-another-html-page-on-github">Video Games</li>
+  </ul>
+
+
+
+</body>
+</html>
