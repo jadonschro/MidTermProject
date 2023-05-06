@@ -14,7 +14,7 @@
     Here is a list of the other pages you can find about me and who I am
   </h5>
   <ul>
-    <li><a href="https://<user.jadonschro>.github.io/<repo.MidTermProject>/about.html">Sports</li>
+    <li><a href="https://<user.jadonschro>.github.io/<repo.MidTermProject>/stack.md">Sports</li>
     <li><a href="https://stackoverflow.com/questions/30932048/linking-to-another-html-page-on-github">Family</li>
     <li><a href="https://stackoverflow.com/questions/30932048/linking-to-another-html-page-on-github">School</li>
     <li><a href="https://stackoverflow.com/questions/30932048/linking-to-another-html-page-on-github">Video Games</li>
