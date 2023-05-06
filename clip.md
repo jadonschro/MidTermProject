@@ -1,4 +1,35 @@
-# This is my best run at just under 35 seconds!
-[Video](https://jstris.jezevec10.com/replay/60991073)
-## I am sitting in the mid 2000's as far as rank, the fastest players in the world can clear all 40 lines in under 20 seconds. It seems like it should be impossible!
-Notice how I move each peice and you should see a pattern as far as the best way to deal with each peice and how they can be used to create a great stack.
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset ="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <h2>Family</h2>
+    <p>
+    On my moms side I have a huge amount of family, she is the youngest of 8 and I seem to meet new family members every time I go to visit them in Louisiana. On my dads side is the opposite I just have One cousin and his children. I don't have many family member in the state I live which is absolutly ok with me. 
+    </p>
+  
+<tabel>
+  <tr>
+    <th>This</th>
+    <th>Is</th>
+    <th>A</th> 
+    <th>Beatiful</th>
+    <th>Tabel</th>
+  </tr>
+    <tr>
+    <th>Boy</th>
+    <th>Do</th>
+    <th>I</th> 
+    <th>Love</th>
+    <th>Tabels</th>
+  </tr>
+</tabel>
+
+
+
+
+</body>
+</html>
