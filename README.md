@@ -14,7 +14,7 @@
     Here is a list of the other pages you can find about me and who I am
   </h5>
   <ul>
-    <li>Sports</li>
+    <li><a href="https://stackoverflow.com/questions/30932048/linking-to-another-html-page-on-github">Sports</li>
     <li>Family</li>
     <li>School</li>
     <li>Video Games</li>
