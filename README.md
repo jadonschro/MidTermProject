@@ -10,6 +10,15 @@
     <p>
     This is a about who I am and  contains some fun facts and various media. Hopefully you will leave this page feeling more fufiled and happy because of all the wonderfull information.
     </p>
+  <h5>
+    Here is a list of the other pages you can find about me and who I am
+  </h5>
+  <ul>
+    <li>Sports</li>
+    <li>Family</li>
+    <li>School</li>
+    <li>Video Games</li>
+  </ul>
 
 
 
