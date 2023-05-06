@@ -23,7 +23,7 @@
     <th>Boy</th>
     <th>Do</th>
     <th>I</th> 
-    <th>Love</th>
+    <th>Lovde</th>
     <th>Tabels</th>
   </tr>
 </tabel>
