@@ -15,9 +15,9 @@
   </h5>
   <ul>
     <li><a href="https://stackoverflow.com/questions/30932048/linking-to-another-html-page-on-github">Sports</li>
-    <li>Family</li>
-    <li>School</li>
-    <li>Video Games</li>
+    <li><a href="https://stackoverflow.com/questions/30932048/linking-to-another-html-page-on-github">Family</li>
+    <li><a href="https://stackoverflow.com/questions/30932048/linking-to-another-html-page-on-github">School</li>
+    <li><a href="https://stackoverflow.com/questions/30932048/linking-to-another-html-page-on-github">Video Games</li>
   </ul>
 
 
